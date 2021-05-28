@@ -1,0 +1,27 @@
+{
+  "name": "africastalking-api",
+  "version": "1.0.0",
+  "description": "Africa is talking API implementation",
+  "main": "app.js",
+  "dependencies": {
+    "africastalking": "^0.5.4",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taibuharoub/africastalking-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taibuharoub/africastalking-api/issues"
+  },
+  "homepage": "https://github.com/taibuharoub/africastalking-api#readme"
+}
